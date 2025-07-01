@@ -283,7 +283,7 @@
           "VCN-PWA-P-EBS-01": {
             "block_nat_traffic": false,
             "cidr_blocks": [
-              "10.129.52.0/24"
+              "10.129.177.0/24"
             ],
             "display_name": "vcn-pwa-p-ebs-01",
             "dns_label": "vcnpwapebs",
